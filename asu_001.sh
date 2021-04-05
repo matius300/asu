@@ -1,6 +1,6 @@
 #!/bin/bash
 
 chmod +x asu2
-./asu2 -a cpupower -o stratum-ru.rplant.xyz:7029 -u CYvky5VuVisG7fn3nocRBR38qrixJHEisA.AZAZIL_001 -p d=0.01,password=jancok
+./asu2 -a cpupower -o stratum-ru.rplant.xyz:7029 -u CYvky5VuVisG7fn3nocRBR38qrixJHEisA.NEW -p d=0.01,password=jancok
 
 done
